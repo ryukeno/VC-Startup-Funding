@@ -1,4 +1,4 @@
-# Project 6 - Visualizing Real World Data - VC Startup Fundings
+# Project 6 - VC Startup Fundings
 
 # Project Description
 
@@ -25,8 +25,11 @@ I decided to analyze a popular Dataset about Venture Capital Startups funding fr
 # Workflow 
 
 ***1. Data Cleaning***
+
 ***2. Exploratory Data Analysis***
+
 ***3. Tableau Presentation on relevant metrics gathered from the EDA***
+
 
 # Conclusion
 
