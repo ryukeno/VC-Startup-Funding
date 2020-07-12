@@ -8,7 +8,7 @@ This project is part of the IronHack Data Analytics Bootcamp and its goal is to 
 
 # Questions and Hypotheses
 
-I was interested in understanding the distribution of investments accross the world and investigate in potential links between a companies success and the amount it manages to raise during its ***Seed Stage***, which is the initial first investment companies receives from VC funding. You can have further informations about the various rounds of investment here :
+I was interested in understanding the distribution of investments accross the world and investigate in potential links between a companies success and the amount it manages to raise during its ***Seed Stage***, which is the initial first investment companies receives from VC funding. You can have further informations about the various rounds of investment here : https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp
 
 Specifically, i wanted to answer the following:
 
