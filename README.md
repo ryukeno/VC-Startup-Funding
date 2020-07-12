@@ -37,3 +37,6 @@ It is impossible to say with certainty that a company's future success is not li
 
 I would need to go deeper in the analysis and find other factors (qualitative as well as quantitative) that might affect a companies future success, and confirm this by analysing then other samples of startups that raised fund through VC.
 
+***Notebook link of the EDA*** : https://github.com/ryukeno/VC-Startup-Funding/blob/master/Startup%20Funding.ipynb
+
+***Tableau Link of the presentation*** : https://public.tableau.com/profile/ryukeno#!/vizhome/VCStartupFunding/Story1?publish=yes
