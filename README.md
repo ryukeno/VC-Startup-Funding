@@ -13,8 +13,11 @@ I was interested in understanding the distribution of investments accross the wo
 Specifically, i wanted to answer the following:
 
 What is the repartition of Venture Capital fundraising around the world ? 
+
 What is the repartition of startups regarding their status ( operating, closed, acquired)
+
 What type ( product )  of companies has more chances to be successful and raise funds, and does this sees a variation depending on the country ?
+
 Is there a particular correlation between ***Seed*** initial investment and a companies future success.
 
 # Data
